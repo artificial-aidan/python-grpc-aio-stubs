@@ -1,0 +1,6 @@
+grpc-stubs==1.53.0.2
+grpcio==1.54.2
+grpcio-tools
+mypy>=0.910
+types-protobuf>=0.1.14
+mypy-protobuf
